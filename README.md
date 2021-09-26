@@ -1,4 +1,4 @@
-# Blog Project
+# DEVELOPER JOURNAL
 Blog Project using NodeJS
 Database :- MongoDB
 
