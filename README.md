@@ -21,7 +21,8 @@ for login system i have used SAWO Labs and in footer it shows Jokes for which i 
 
 <img width="944" alt="Screenshot 2021-09-26 222925" src="https://user-images.githubusercontent.com/78149368/134817526-6b3dd9a8-64b4-4d50-a81c-41581b4c2409.png">
 
-<img width="944" alt="Screenshot 2021-09-26 222925" src="https://user-images.githubusercontent.com/78149368/134817567-b5908a32-299b-4207-8797-44b92ac4c85e.png">
+<img width="959" alt="Screenshot 2021-09-26 224954" src="https://user-images.githubusercontent.com/78149368/134817848-6eaa51ff-2fe1-49b2-8fef-29b18ee2e71b.png">
+
 
 ## I have used Postman to test the JokesAPI used in footer section 
 
